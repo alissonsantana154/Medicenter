@@ -5,6 +5,7 @@
 body {
   margin: 0;
   padding: 0;
+  padding-bottom: 300px;
 }
 
 header {
@@ -135,4 +136,44 @@ nav a:hover {
   color: #ffffff;
   font-size: 13px;
   text-decoration: none;
+}
+
+#geral {
+  display: flex;
+  justify-content: center;
+}
+
+#geral section {
+  flex: 2;
+}
+
+#geral aside {
+  flex: 1;
+}
+
+.widget_title {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.widget_title_text {
+  color: #000000;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.widget_title_bar {
+  width: 50px;
+  height: 3px;
+  background-color: #39a9e1;
+  margin-top: 10px;
+}
+
+.container1 div {
+  display: inline-block;
+  width: 122px;
+  height: 122px;
+  background-color: #39a9e1;
+  margin: 10px;
+  padding: 10px;
 }
