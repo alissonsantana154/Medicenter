@@ -5,7 +5,7 @@
 
 https://modest-montalcini-574603.netlify.app/
 
- No Site Medicenter os paciente marcar fixas e horarios para consulta, ele é uma aplicação Front end que fizemos no curso de HTML5 e CSS3, evento organizado pela [B7WEB](https://b7web.com.br/fullstack/?ref=I24108426I&gclid=CjwKCAjw8KmLBhB8EiwAQbqNoIZmM7S0i2hSO2KxocuVt4PDmEskAMRuNffEU7LXbNXfVILGlvEIlhoCQSAQAvD_BwE "Site b7web ").
+ No Site Medicenter os paciente marcam fixas e horarios para consultas, ele é uma aplicação Front end que fizemos no curso de HTML5 e CSS3, evento organizado pela [B7WEB](https://b7web.com.br/fullstack/?ref=I24108426I&gclid=CjwKCAjw8KmLBhB8EiwAQbqNoIZmM7S0i2hSO2KxocuVt4PDmEskAMRuNffEU7LXbNXfVILGlvEIlhoCQSAQAvD_BwE "Site b7web ").
 
 
 ## Layout web
